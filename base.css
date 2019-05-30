@@ -66,6 +66,7 @@ section>article:nth-child(3) p span {font-size: 90px;margin-bottom: 0; margin-to
 section>article:nth-child(4) p { bottom:80px; right:-27%;}
 section>article:nth-child(4) p span { font-size: 90px;background-color:black; opacity: 0.8;}
 .하회 {height: 600px; bottom:7%; left:5%}
+.탈동찬 {height: 400px; bottom:20%; right:20%;}
 
 /*다섯 번째 박스 콘텐츠*/
 section>article:nth-child(5) p { bottom:120px; right:-300px; background-color:black; opacity: 0.8;}
